@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "TwitchTVClone",
-    "slug": "TwitchTVClone",
+    "name": "TwitchTVClone_davidlpc",
+    "slug": "twitchtvclone_davidlpc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -21,6 +21,10 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "description": "",
+    "android": {
+      "package": "com.davidlpc1.twitchtvclone_davidlpc"
     }
   }
 }

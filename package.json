@@ -1,6 +1,7 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
+    "dev": "expo start",
     "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
@@ -11,9 +12,11 @@
     "@expo-google-fonts/roboto": "^0.1.0",
     "@expo/vector-icons": "^10.2.0",
     "@react-native-community/masked-view": "0.1.10",
-    "@react-navigation/bottom-tabs": "^5.8.0",
+    "@react-navigation/bottom-tabs": "^5.11.1",
     "@react-navigation/native": "^5.7.3",
+    "@types/react-router-dom": "^5.1.6",
     "expo": "~38.0.8",
+    "expo-cli": "^3.28.5",
     "expo-constants": "~9.1.1",
     "expo-status-bar": "^1.0.2",
     "react": "~16.11.0",
@@ -24,6 +27,7 @@
     "react-native-safe-area-context": "~3.0.7",
     "react-native-screens": "~2.9.0",
     "react-native-web": "~0.11.7",
+    "react-router-dom": "^5.2.0",
     "styled-components": "^5.1.1"
   },
   "devDependencies": {
